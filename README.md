@@ -1,4 +1,4 @@
-# nextJs
+# React + nextJs
 Aerolab Coding Challenges.
 
 1) npm install
